@@ -1,0 +1,40 @@
+
+#lblTitle{
+    -fx-font-size: 20px;
+    -fx-font-weight: 600;
+    -fx-border:1px solid black;
+    -fx-border-radius: 10px;
+}
+#btnOpen{
+    -fx-background-color: green;
+}
+#btnOpen:hover{
+    -fx-background-color: #006c00;
+}
+
+#btnDestination{
+    -fx-background-color: blue;
+}
+
+#btnDestination:hover{
+    -fx-background-color: #0000d0;
+}
+
+#btnCopy{
+    -fx-background-color: #ee8102;
+}
+
+#btnCopy:hover{
+    -fx-background-color: #cc6e01;
+
+}
+
+#wrapper{
+
+    -fx-border-width: 5px;
+    -fx-border-color: rgba(0, 0, 0, 0.25);
+    -fx-border-style: solid;
+    -fx-border-radius: 10px;
+
+}
+

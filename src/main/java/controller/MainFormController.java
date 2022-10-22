@@ -36,6 +36,7 @@ public class MainFormController {
     public Label lblProgress;
     public JFXCheckBox chkDirectory;
     public JFXCheckBox chkFiles;
+    public Label lblTitle;
 
     private File[] srcFile;
     private File srcDir;

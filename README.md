@@ -7,7 +7,7 @@
 
 <p>A simple copy & paste application created using Java and JavaFX in order to learn how the buffer works for file reading and writing.
 <br>
-Also we have slightly focused on using a separate thread for UI rendering and while keeping the main thread just for reading and writing task.
+Also we have slightly focused on using a separate thread for UI rendering while keeping the main thread just for reading and writing task.
 </p>
 
 
